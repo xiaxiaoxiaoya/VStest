@@ -1,11 +1,11 @@
 <template>
   <div>
-    <el-row :gutter="20">
+    <el-row :gutter="10">
       <!-- <div><el-button type="danger">危险按钮</el-button></div> -->
       <el-col :span="6"><div class="content">展示图1</div></el-col>
-      <el-col :span="6"><div class="content">展示图1</div></el-col>
-      <el-col :span="6"><div class="content">展示图1</div></el-col>
-      <el-col :span="6"><div class="content">展示图1</div></el-col>
+      <el-col :span="6"><div class="content">展示图2</div></el-col>
+      <el-col :span="6"><div class="content">展示图3</div></el-col>
+      <el-col :span="6"><div class="content">展示图4</div></el-col>
     </el-row>
   </div>
 </template>
